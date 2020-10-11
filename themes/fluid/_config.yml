@@ -402,9 +402,9 @@ about:  # 关于页需要手动创建，具体请见：https://hexo.fluid-dev.co
 #---------------------------
 page404:
   banner_img: https://cdn.jsdelivr.net/gh/8066/Hexo-NetlifyCMS@master/themes/fluid/source/img/default.png
-  banner_img_height: 85  # available: 0 - 100
+  banner_img_height: 100  # available: 0 - 100
   banner_mask_alpha: 0.3  # available: 0 - 1.0
-  subtitle: 'Page not found'  # 打字机内容
+  subtitle: '页面没了呀'  # 打字机内容
 
 
 #---------------------------
